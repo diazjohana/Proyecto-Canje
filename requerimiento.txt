@@ -1,0 +1,15 @@
+Desde la Gerencia de Marketing en conjunto con Gerencia de Innovación solicitamos la creación de una nueva propuesta al cliente para enrolarse a las campañas de puntos obtenidos por compras con sus tarjetas de crédito.
+
+Para esto queremos que los clientes ingresen a una página web y puedan darse de alta, validarse, consultar la cantidad de puntos que se obtienen por compras realizadas, consultar el saldo de puntos, ver un catálogo de productos, seleccionar productos y canjear los puntos ademas que el mismo sea enviado por correo al domicilio del cliente.
+
+Clientes se validan con DNI
+
+Clientes deben generar clave numérica restringida a 6 dígitos y no pueden ser fecha de nacimiento ni números del DNI, ni números ascendentes y descendentes. 
+
+No estamos seguros si están cargados los domicilios 
+
+Queremos un reporte de los productos que solicitó el cliente ya que no pueden solicitar más de un producto igual en distintas sesiones, pero si en la misma una misma sesión
+
+La campaña rige del 15 de diciembre al 1 de marzo.
+
+El modulo de campañas será usado durante todo el año."
